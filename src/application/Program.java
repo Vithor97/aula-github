@@ -9,6 +9,8 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("BOA TARDE A TODOS, ESTOU FAZENDO MODIFICAÇÕES NO GITHUB APENAS PARA TESTES");
+		
 		
 		
 		System.out.println("Enter product data: ");
